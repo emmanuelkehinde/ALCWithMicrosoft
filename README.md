@@ -103,8 +103,3 @@ password: janedoe
   "__v": 0
 }
 ```
-
-
-
-### Author
-**Olajide Bolaji 'Nuel** - Software Developer at Andela
