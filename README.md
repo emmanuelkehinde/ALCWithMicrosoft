@@ -1,5 +1,3 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 # ALCWithMicrosoft
 Assessment Solution for the ALC with Microsoft program.
 
